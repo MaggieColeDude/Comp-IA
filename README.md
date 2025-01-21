@@ -32,6 +32,5 @@ In a circuit-building program, simulations require complex and often computation
 4. The client can delete components of the circuit builder
 5. The program can easily calculate and explain Ohm's law. 
 # Flow Chart & Logic Diagram 
-
-
+!
 
