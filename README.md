@@ -1,10 +1,15 @@
 # SL Comp-IA: The Power of Circuitry, Margaret Cole, Period: 4B 
 This repository is dedicated to my standard level (SL) computer science internal assessment (IA) for the international baccalaureate program. The Computer Science Internal Assessment (IA) is officially called 'The Solution.' It involves using Computing technology to solve a problem for a real-life client. The IA accounts for 30% of the total Standard Level (SL) grade and 20% of the Higher Level (HL) grade. Learn more here --> https://ib.compscihub.net/internal. 
 The repository will be sorted and marked according to the IB criteria each section belongs to. The criteria are as follows: 
+
 Criterion A – Planning – 6 marks
+
 Criterion B – Record of Tasks (RoT) and Design – 6 marks (ROT_blank)
+
 Criterion C – Development – 12 marks
+
 Criterion D – Functionality (Video) – 4 marks
+
 Criterion E – Evaluation – 6 marks
 # "The Scenario" (Criterion A)
 The client is my physics teacher, Mr.Lambert, who has been struggling to find an adequate online circuit simulator for his beginner physics class. Many builders he finds online are missing key aspects, such as voltage level indicators, or don't provide enough information/ visual aid on how the scientific process works; instead, they leave many elements up to user interpretation, which has caused his students to become more confused by circuitry than enlightened. After consulting with him, I suggested we create a simulation equipped with personalized visuals/ features he can choose to implement into the program. This resulted in ideas like creating different colors for the wires to indicate voltage levels with a key as a visual aid and infographics to explain the step-by-step scientific process.  
