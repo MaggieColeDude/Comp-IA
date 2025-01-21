@@ -13,9 +13,13 @@ Java's modular structure allows for the creation of reusable components (Resisto
 3. Concurrency and Multithreading:
 In a circuit-building program, simulations require complex and often computationally intensive calculations. Java’s built-in support for multithreading and concurrency handles these things more efficiently, improving the program’s performance and responsiveness.
 4. Optimization: While Java isn’t as low-level as C or C++, it is still highly optimized through the Just-In-Time (JIT) compiler and garbage collection.
+# "Success Criteria" (Criterion A) 
+1. The client can easily add new components to the circuit builder
+2. The client can interact and change the amount of voltage in the simulator
+3. The program relays the process step by step through a visual infographic
+4. The client can delete components of the circuit builder
+5. The program can easily calculate and explain ohm's law. 
 # Flow Chart & Logic Diagram 
-
-# Why my project matters 
 
 
 
